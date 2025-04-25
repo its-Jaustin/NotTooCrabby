@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dd8009d9cf229ef4d826af2e89eb8b7b
+timeCreated: 1527343494
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BeachArea_Set1/Prefabs/Gem_Magenta.prefab
+  uploadId: 576017

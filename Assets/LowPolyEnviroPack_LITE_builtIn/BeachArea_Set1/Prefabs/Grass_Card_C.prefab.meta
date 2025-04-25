@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 17e0e5a2bcd548e4aa7bc11dd7b959d1
+timeCreated: 1527343505
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BeachArea_Set1/Prefabs/Grass_Card_C.prefab
+  uploadId: 576017

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b4e3142fe2b83384c990c424786e7d14
+timeCreated: 1527343771
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BeachArea_Set1/Prefabs/Picnic_Bench.prefab
+  uploadId: 576017

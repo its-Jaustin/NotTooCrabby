@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4fefa74b26589c64a8b63d125929de66
+timeCreated: 1527343733
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BeachArea_Set1/Prefabs/Park_Bench_Corner_In.prefab
+  uploadId: 576017

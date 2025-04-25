@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2e4a7bd387d37904e93ead6a141c306d
+timeCreated: 1527343523
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BeachArea_Set1/Prefabs/Grass_Medium_Bumps_A.prefab
+  uploadId: 576017

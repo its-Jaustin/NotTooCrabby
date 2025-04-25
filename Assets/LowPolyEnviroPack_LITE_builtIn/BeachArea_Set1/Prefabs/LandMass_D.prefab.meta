@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2c888c039c001f34e95b516be150e457
+timeCreated: 1527343533
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BeachArea_Set1/Prefabs/LandMass_D.prefab
+  uploadId: 576017

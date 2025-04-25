@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 61b37e00b42fbdb43be04bdc84e65bc2
+timeCreated: 1527343569
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BeachArea_Set1/Prefabs/Mountain_B.prefab
+  uploadId: 576017
