@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 395021602475fb949bc33496e5a5bb3c
+timeCreated: 1539615979
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BlocksAndTrees/Prefabs/RockCanyon1.prefab
+  uploadId: 576017

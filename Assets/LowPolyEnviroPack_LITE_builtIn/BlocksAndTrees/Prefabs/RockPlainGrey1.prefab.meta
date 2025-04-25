@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8aa5390f31df8524ab5e28ae2346ba7e
+timeCreated: 1539616001
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BlocksAndTrees/Prefabs/RockPlainGrey1.prefab
+  uploadId: 576017

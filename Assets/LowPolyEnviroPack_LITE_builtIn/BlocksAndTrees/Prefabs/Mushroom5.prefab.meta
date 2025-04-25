@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 87c5e12bff88d18409f85fb7ccaeb3fe
+timeCreated: 1539615960
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BlocksAndTrees/Prefabs/Mushroom5.prefab
+  uploadId: 576017

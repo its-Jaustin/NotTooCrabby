@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9fc0e67f557d1a04ab7e7296ab08429e
+timeCreated: 1539616072
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BlocksAndTrees/Prefabs/Tree_Fern_SmallWide_SumAut.prefab
+  uploadId: 576017

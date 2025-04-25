@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 44ef4afd1e20f65478f7ca1d2c3b00ee
+timeCreated: 1539616099
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BlocksAndTrees/Prefabs/Tree_Large_E.prefab
+  uploadId: 576017
