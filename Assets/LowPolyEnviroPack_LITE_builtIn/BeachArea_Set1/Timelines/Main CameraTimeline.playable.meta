@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 55127030973bacd4088b9ea8253f9f0e
+timeCreated: 1526759922
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BeachArea_Set1/Timelines/Main
+    CameraTimeline.playable
+  uploadId: 576017

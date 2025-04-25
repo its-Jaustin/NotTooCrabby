@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7feef1eb89dee9844b2c0a9916dcf326
+timeCreated: 1527343869
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BeachArea_Set1/Prefabs/Stone_Squarish_C.prefab
+  uploadId: 576017

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 72b0d84d8d002be4d9144403456c0541
+timeCreated: 1539615914
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BlocksAndTrees/Prefabs/Block_Cap_Concrete.prefab
+  uploadId: 576017

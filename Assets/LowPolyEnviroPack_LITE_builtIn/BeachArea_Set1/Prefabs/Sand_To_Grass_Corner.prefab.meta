@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ce423f5a7ca0cfa4f80221b65b8abd1d
+timeCreated: 1527343832
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BeachArea_Set1/Prefabs/Sand_To_Grass_Corner.prefab
+  uploadId: 576017
