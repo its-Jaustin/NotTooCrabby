@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a665688ca26d8864a996bcedeb578031
+timeCreated: 1526316323
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BeachArea_Set1/Materials/Sky.mat
+  uploadId: 576017
