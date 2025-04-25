@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c99c5c084c2051c4a8ff18122875e91d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214842
+  packageName: Ghost Crab
+  packageVersion: 1.0
+  assetPath: Assets/GAMESH/Animated Crab/Animations/Crab_Walk_Left.anim
+  uploadId: 526228

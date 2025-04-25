@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1168c771c3ea73e4f9e856742df9c62f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214842
+  packageName: Ghost Crab
+  packageVersion: 1.0
+  assetPath: Assets/GAMESH/Animated Crab/Animations/Crab_Death.anim
+  uploadId: 526228

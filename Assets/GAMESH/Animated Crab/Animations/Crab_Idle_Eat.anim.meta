@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 705f24dedbb5d244180b09a71ab0b91e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214842
+  packageName: Ghost Crab
+  packageVersion: 1.0
+  assetPath: Assets/GAMESH/Animated Crab/Animations/Crab_Idle_Eat.anim
+  uploadId: 526228

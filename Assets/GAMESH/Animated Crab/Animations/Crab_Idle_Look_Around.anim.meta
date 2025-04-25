@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be0cf57a26ad5ba4da6abcdfef40d4e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214842
+  packageName: Ghost Crab
+  packageVersion: 1.0
+  assetPath: Assets/GAMESH/Animated Crab/Animations/Crab_Idle_Look_Around.anim
+  uploadId: 526228
