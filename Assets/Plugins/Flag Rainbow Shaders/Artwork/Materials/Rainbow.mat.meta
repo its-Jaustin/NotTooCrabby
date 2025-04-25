@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e85e2fcecd1001478892716b02813ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224583
+  packageName: Flag and Rainbow Shaders
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/Flag Rainbow Shaders/Artwork/Materials/Rainbow.mat
+  uploadId: 505912

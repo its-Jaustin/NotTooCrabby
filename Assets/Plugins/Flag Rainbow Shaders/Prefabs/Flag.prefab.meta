@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 378d66f69d9f66f4eaa44fe085469a58
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224583
+  packageName: Flag and Rainbow Shaders
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/Flag Rainbow Shaders/Prefabs/Flag.prefab
+  uploadId: 505912

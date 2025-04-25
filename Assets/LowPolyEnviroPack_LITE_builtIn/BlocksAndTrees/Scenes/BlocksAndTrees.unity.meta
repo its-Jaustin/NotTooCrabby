@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c70d84adcfe1be045bba124730add126
+timeCreated: 1539616184
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119111
+  packageName: Little Low Poly World - LITE SRP/URP
+  packageVersion: 1.36
+  assetPath: Assets/LowPolyEnviroPack_LITE_builtIn/BlocksAndTrees/Scenes/BlocksAndTrees.unity
+  uploadId: 576017
